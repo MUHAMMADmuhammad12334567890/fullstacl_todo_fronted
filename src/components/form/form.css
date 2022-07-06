@@ -1,0 +1,18 @@
+.value {
+    width: 30%;
+    border-radius: 4px;
+    color: red;
+    border: none;
+    
+}
+.button_does_not_work {
+    opacity: 0.5;
+    background-color:blue ;
+    color: white;
+    border-radius: 5px;
+}
+.button_works {
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+}
